@@ -10,4 +10,8 @@ Do the hard things
 
 You're the artist of your own life
 
+<<<<<<< Updated upstream
 Surround yourself with people who are only going to lift you higher
+=======
+Failure is not the opposite of success. It is part of success.
+>>>>>>> Stashed changes
